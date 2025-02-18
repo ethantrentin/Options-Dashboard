@@ -12,7 +12,7 @@ You can change the parameters of the simplest Black-Scholes model for European O
 The graph displays the option price and the payoff on the left y-axis and the considered Greek on the right y-axis. 
 Finally, you can update the minimum and maximum of the spot prices considered when plotting. 
 
-2. The second project of the repository will try to improve the previous Greeks Dashboard by adding more Greeks, and different variants of European options.
+2. The second project of the repository will try to improve the previous Greeks Dashboard by adding more Greeks, dividens and different variants of European options.
    
 
 
